@@ -1,0 +1,11 @@
+#include <stdio.h>
+main()
+{
+int x, y;
+printf("vvedite x:");
+scanf("%d", &x);
+
+y=5x+20
+
+printf("y = %d, x)
+getchar();	
